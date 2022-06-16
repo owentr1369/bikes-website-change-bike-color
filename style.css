@@ -13,6 +13,7 @@
   background-size: cover;
   background-position: center;
   padding: 20px 10%;
+  transition: background-image 0.2s;
 }
 nav {
   width: 100%;
